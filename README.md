@@ -1,2 +1,2 @@
 # hello-world
-un petit répertoire oklm
+Je supprime ce message "un petit répertoire oklm"
